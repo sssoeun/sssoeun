@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=soft&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=random)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -23,7 +23,7 @@
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![aws](https://img.shields.io/badge/amazonwebservices-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
