@@ -35,6 +35,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeun0613)](https://solved.ac/profile/soeun0613)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{sssoeun}"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sssoeun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sssoeun"
+  width="600"
+  height="300"
+/>
 </a>
